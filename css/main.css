@@ -20,7 +20,7 @@ ul {
     list-style-type: none;
 }
 
-/* Header Section */
+
 header {
     display: flex;
     justify-content: space-between;
@@ -67,7 +67,7 @@ nav ul li a:hover {
     background-color: #0056b3;
 }
 
-/* Hero Section */
+
 .hero {
     display: flex;
     justify-content: space-between;
@@ -130,7 +130,7 @@ nav ul li a:hover {
     box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
 }
 
-/* Clinic Partners Section */
+
 .partners {
     padding: 50px 50px;
     background-color: #fff;
@@ -161,7 +161,7 @@ nav ul li a:hover {
     filter: grayscale(0%);
 }
 
-/* Services Section */
+
 .services {
     padding: 80px 50px;
     background-color: #f9fbfd;
@@ -224,7 +224,7 @@ nav ul li a:hover {
     color: #0056b3;
 }
 
-/* Team Section */
+
 .team {
     padding: 80px 50px;
     background-color: #fff;
@@ -271,7 +271,7 @@ nav ul li a:hover {
     color: #555;
 }
 
-/* Promo Section */
+
 .promo {
     background-color: #e9f5ff;
     padding: 100px 50px;
@@ -316,7 +316,7 @@ nav ul li a:hover {
     box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.1);
 }
 
-/* Testimonials Section */
+
 .testimonials {
     padding: 80px 50px;
     background-color: #fff;
@@ -354,7 +354,7 @@ nav ul li a:hover {
     width: 20px;
 }
 
-/* Blog Section */
+
 .blog {
     padding: 80px 50px;
     background-color: #f9fbfd;
@@ -405,7 +405,7 @@ nav ul li a:hover {
     color: #555;
 }
 
-/* Footer Section */
+
 footer {
     padding: 20px 50px;
     background-color: #333;
